@@ -1,0 +1,42 @@
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\bin\Debug\net9.0\OuroborosAdventure.exe
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\bin\Debug\net9.0\OuroborosAdventure.deps.json
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\bin\Debug\net9.0\OuroborosAdventure.runtimeconfig.json
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\bin\Debug\net9.0\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\bin\Debug\net9.0\OuroborosAdventure.pdb
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\OuroborosAdventure.GeneratedMSBuildEditorConfig.editorconfig
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\OuroborosAdventure.AssemblyInfoInputs.cache
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\OuroborosAdventure.AssemblyInfo.cs
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\OuroborosAdventure.csproj.CoreCompileInputs.cache
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\refint\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\OuroborosAdventure.pdb
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\OuroborosAdventure.genruntimeconfig.cache
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure\obj\Debug\net9.0\ref\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\Game Test\bin\Debug\net9.0\OuroborosAdventure.exe
+F:\SwinburneCourse\COS20007 - OOP\Game Test\bin\Debug\net9.0\OuroborosAdventure.deps.json
+F:\SwinburneCourse\COS20007 - OOP\Game Test\bin\Debug\net9.0\OuroborosAdventure.runtimeconfig.json
+F:\SwinburneCourse\COS20007 - OOP\Game Test\bin\Debug\net9.0\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\Game Test\bin\Debug\net9.0\OuroborosAdventure.pdb
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\OuroborosAdventure.GeneratedMSBuildEditorConfig.editorconfig
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\OuroborosAdventure.AssemblyInfoInputs.cache
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\OuroborosAdventure.AssemblyInfo.cs
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\OuroborosAdventure.csproj.CoreCompileInputs.cache
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\refint\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\OuroborosAdventure.pdb
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\OuroborosAdventure.genruntimeconfig.cache
+F:\SwinburneCourse\COS20007 - OOP\Game Test\obj\Debug\net9.0\ref\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\bin\Debug\net9.0\OuroborosAdventure.exe
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\bin\Debug\net9.0\OuroborosAdventure.deps.json
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\bin\Debug\net9.0\OuroborosAdventure.runtimeconfig.json
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\bin\Debug\net9.0\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\bin\Debug\net9.0\OuroborosAdventure.pdb
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\OuroborosAdventure.GeneratedMSBuildEditorConfig.editorconfig
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\OuroborosAdventure.AssemblyInfoInputs.cache
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\OuroborosAdventure.AssemblyInfo.cs
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\OuroborosAdventure.csproj.CoreCompileInputs.cache
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\refint\OuroborosAdventure.dll
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\OuroborosAdventure.pdb
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\OuroborosAdventure.genruntimeconfig.cache
+F:\SwinburneCourse\COS20007 - OOP\OuroborosAdventure1\obj\Debug\net9.0\ref\OuroborosAdventure.dll
