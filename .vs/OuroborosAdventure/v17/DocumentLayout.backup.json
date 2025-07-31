@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B6B8E0-7208-994B-4B29-E921D6A8C652}|OuroborosAdventure.csproj|f:\\swinburnecourse\\cos20007 - oop\\cos20007\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B6B8E0-7208-994B-4B29-E921D6A8C652}|OuroborosAdventure.csproj|solutionrelative:skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B6B8E0-7208-994B-4B29-E921D6A8C652}|OuroborosAdventure.csproj|f:\\swinburnecourse\\cos20007 - oop\\cos20007\\builderroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B6B8E0-7208-994B-4B29-E921D6A8C652}|OuroborosAdventure.csproj|solutionrelative:builderroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 254,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\SkillManager.cs",
+              "RelativeDocumentMoniker": "SkillManager.cs",
+              "ToolTip": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\SkillManager.cs",
+              "RelativeToolTip": "SkillManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:44:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuilderRoom.cs",
+              "DocumentMoniker": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\BuilderRoom.cs",
+              "RelativeDocumentMoniker": "BuilderRoom.cs",
+              "ToolTip": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\BuilderRoom.cs",
+              "RelativeToolTip": "BuilderRoom.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:14:26.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

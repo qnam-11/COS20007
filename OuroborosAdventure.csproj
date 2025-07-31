@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="SkillManager.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Include="Resource\Ouroboros.ico" />
   </ItemGroup>
 
