@@ -58,6 +58,10 @@ namespace OuroborosAdventure
             if (_skills["cowboy"] is SkillForCowboy cowboySkill)
             {
                 cowboySkill.ApplyImmortality(player);
+                if (!cowboySkill.IsActive && cowboySkill.IsOnCooldown && player.IsImmortal)
+                {
+                    player.IsImmortal = false;
+                }
             }
         }
         public void OnPlayerShoot(HashSet<Projectile> projectiles, ProjectileFactory projectileFactory,
