@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SwinburneCourse\\COS20007 - OOP\\OuroborosAdventure1\\OuroborosAdventure.csproj": {}
+    "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\OuroborosAdventure.csproj": {}
   },
   "projects": {
-    "F:\\SwinburneCourse\\COS20007 - OOP\\OuroborosAdventure1\\OuroborosAdventure.csproj": {
+    "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\OuroborosAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SwinburneCourse\\COS20007 - OOP\\OuroborosAdventure1\\OuroborosAdventure.csproj",
+        "projectUniqueName": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\OuroborosAdventure.csproj",
         "projectName": "OuroborosAdventure",
-        "projectPath": "F:\\SwinburneCourse\\COS20007 - OOP\\OuroborosAdventure1\\OuroborosAdventure.csproj",
+        "projectPath": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\OuroborosAdventure.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\SwinburneCourse\\COS20007 - OOP\\OuroborosAdventure1\\obj\\",
+        "outputPath": "F:\\SwinburneCourse\\COS20007 - OOP\\COS20007\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

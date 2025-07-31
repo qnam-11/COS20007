@@ -25,7 +25,7 @@ namespace OuroborosAdventure
                         }
                     } else
                     {
-                        int rnd = SplashKit.Rnd(0, 3);
+                        int rnd = SplashKit.Rnd(0, 2);
                         roomArray[i, j] = 0 + rnd * 10;
                     }
                 }
