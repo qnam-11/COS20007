@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OuroborosAdventure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b7e243b85fbcbe82c6d15be54e2e1032c71c43")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e0b14b66ed2c5ba32f5f401ddf618ac8ef0b69f")]
 [assembly: System.Reflection.AssemblyProductAttribute("OuroborosAdventure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OuroborosAdventure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

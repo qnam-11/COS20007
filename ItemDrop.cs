@@ -16,7 +16,7 @@ namespace OuroborosAdventure
         }
         public void Drop(IItemFactory wFactory, HashSet<Item> items, Point2D point2D)
         {
-            int rnd = SplashKit.Rnd(1, 11);
+            int rnd = SplashKit.Rnd(1, 10);
             float x = point2D.X;
             float y = point2D.Y;
             int willdrop = SplashKit.Rnd(0, 10);
@@ -26,11 +26,11 @@ namespace OuroborosAdventure
             {
                 return;
             }
-            if (rnd <= 4)
+            if (rnd <= 5)
                 // 50% drop potion
             {
                 
-                int subrnd1 = SplashKit.Rnd(0, 2);
+                int subrnd1 = SplashKit.Rnd(0, 1);
                 if(subrnd1 == 0)
                 {
                     items.Add(_potionFactory.Create("Health potion", x, y));
@@ -43,7 +43,7 @@ namespace OuroborosAdventure
             // 20% drop melee weapon
             {
 
-                int subrnd2 = SplashKit.Rnd(0, 2);
+                int subrnd2 = SplashKit.Rnd(0, 1);
                 if(subrnd2 == 0)
                 {
                     items.Add(weaponFactory.Create("Iron Sword", x, y));
@@ -55,7 +55,7 @@ namespace OuroborosAdventure
             } else
             // 30% drop range weapon
             {
-                int subrnd3 = SplashKit.Rnd(0, 3);
+                int subrnd3 = SplashKit.Rnd(0, 2);
                 switch (subrnd3)
                 {
                     case 0:
