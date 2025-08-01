@@ -69,6 +69,8 @@ namespace OuroborosAdventure
         {
             if (_skills["alchemist"] is SkillForAlchemist alchemistSkill && _currentCharacterType == "alchemist")
             {
+                //Console.WriteLine("Alchemist skill triggered!");
+
                 alchemistSkill.TriggerMultiShot(projectiles, projectileFactory, player, weapon, isSameRoom);
             }
         }

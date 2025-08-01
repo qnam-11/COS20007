@@ -9,7 +9,7 @@ namespace OuroborosAdventure
     public class SkillForWizard : Skill
     {
         private Dictionary<Character, float> _originalVelocities;
-        public SkillForWizard() : base("Freeze Spell", 10f, 30f)
+        public SkillForWizard() : base("Freeze Spell", 2f, 8f)
         {
             _originalVelocities = new Dictionary<Character, float>();
         }

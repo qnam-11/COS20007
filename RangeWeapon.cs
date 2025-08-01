@@ -29,6 +29,7 @@ namespace OuroborosAdventure
                 double currentTime = SplashKit.CurrentTicks();
                 if (currentTime - _lastAttackTime >= _attackCooldown)
                 {
+                    //Console.WriteLine("Last attack time updated");
                     _lastAttackTime = currentTime;
                     _attackPosition = Attack(c, point2D, Width);
                     Angle = Math.Atan2(point2D.Y - c.Y, point2D.X - c.X);
@@ -71,6 +72,32 @@ namespace OuroborosAdventure
             _attackPosition.X = c.X;
             _attackPosition.Y = c.Y;
             return _attackPosition;
+        }
+
+        public void TriggerShot()
+        {
+            double currentTime = SplashKit.CurrentTicks();
+            Console.WriteLine("Last attack time updated to: " + currentTime);
+            _lastAttackTime = currentTime;
+        }
+        public bool AbleToShot()
+        {
+
+            //Console.WriteLine("Checking if able to shot: ------------------");
+            //Console.WriteLine("Current time: " + SplashKit.CurrentTicks());
+            //Console.WriteLine("Last attack time: " + _lastAttackTime);
+            //Console.WriteLine("Attack cooldown: " + _attackCooldown);
+            double currentTime = SplashKit.CurrentTicks();
+            if (currentTime - _lastAttackTime >= _attackCooldown)
+            {
+                //Console.WriteLine("Able to shot.");
+                return true;
+            }
+            else
+            {
+                //Console.WriteLine("Not able to shot.");
+                return false;
+            }
         }
     }
 }
