@@ -39,7 +39,7 @@ namespace OuroborosAdventure
                                     0, 8, 500, 64, 96);
                 case "Plutonium":
                     return new RangeWeapon(ItemType.RangeWeapon, name, "Plutoniumball", "radiation", x, y,
-                                    0, 10, 550, 60, 80);
+                                    0, 0, 550, 60, 80);
                 default:
                     return null;
             }

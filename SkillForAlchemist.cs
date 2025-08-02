@@ -75,7 +75,7 @@ namespace OuroborosAdventure
             {
                 case "revolver":
                     return "pistolBullet";
-                case "shotgun":
+                case "sawed-off shotgun":
                     return "shotgunBullet";
                 case "sniper":
                     return "sniperBullet";
@@ -83,16 +83,10 @@ namespace OuroborosAdventure
                     return "rifleBullet";
                 case "snipezooka":
                     return "snipezookaBullet";
-                case "flamethrower":
-                    return "fireBullet";
-                case "glassgun":
-                    return "Glass";
-                case "fireparticle":
-                    return "fireParticle";
-                case "plutonium":
+                case "Plutonium":
                     return "Plutoniumball";
                 default:
-                    return "pistolBullet"; // Default fallback
+                    return "Plutoniumball"; // Default fallback
             }
         }
     }
