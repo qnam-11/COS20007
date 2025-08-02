@@ -12,7 +12,7 @@ namespace OuroborosAdventure
         private bool _nextShotTriggered;
         public SkillForAlchemist() : base("Multi Shot", 3f, 8f)
         {
-            _extraBullets = 4;
+            _extraBullets = 2;
             _nextShotTriggered = false;
         }
         protected override void OnActivate()
@@ -37,9 +37,9 @@ namespace OuroborosAdventure
             // Create additional projectiles at different angles
             for (int i = 1; i <= _extraBullets; i++)
             {
-                double angleOffset = (i % 2 == 0 ? 1 : -1) * (i * 0.14); // ±8° (0.14 rad)
+                double angleOffset = (i % 2 == 0 ? 1 : -1) * (i * 0.26); // +-15° (0.26 rad)
                 double newAngle = weapon.Angle + angleOffset;
-                if(player.Energy - weapon.EnergyCost * _extraBullets < 0)
+                if(player.Energy - weapon.EnergyCost < 0)
                 {
                     Console.WriteLine("Not enough energy yet to trigger multi shot.");
                     return;
@@ -48,7 +48,7 @@ namespace OuroborosAdventure
                     //Console.WriteLine("I am called Multi Shot");
                     //Console.WriteLine("Current Energy: " + player.Energy);
                     //Console.WriteLine("Energy Cost: " + weapon.EnergyCost * _extraBullets);
-                    player.EnergyChanged(-weapon.EnergyCost * _extraBullets);
+                    player.EnergyChanged(-weapon.EnergyCost);
                     _nextShotTriggered = true;
                     Projectile? newProjectile = projectileFactory.Create(
                         projectileType,
@@ -83,10 +83,10 @@ namespace OuroborosAdventure
                     return "rifleBullet";
                 case "snipezooka":
                     return "snipezookaBullet";
-                case "Plutonium":
+                case "plutonium":
                     return "Plutoniumball";
                 default:
-                    return "Plutoniumball"; // Default fallback
+                    return "pistolBullet"; // Default fallback
             }
         }
     }
