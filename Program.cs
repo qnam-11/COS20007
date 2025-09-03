@@ -7,7 +7,7 @@ namespace OuroborosAdventure
     {
         public static void Main()
         {
-            Window window = new Window("Hide Out", 1536, 920);
+            Window window = new Window("Ouroboros Adventure", 1536, 920);
             DrawGameState drawGameState = new DrawGameState();
             //GameManager gameManager = new GameManager();
             //gameManager.SetUp();
